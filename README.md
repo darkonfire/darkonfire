@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @darkonfire
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, Arihant this side
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning python
 - 📫 How to reach me ...https://discord.gg/4s6hsZqDz4
 
 <!---
