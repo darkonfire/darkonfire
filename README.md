@@ -49,6 +49,9 @@
 [youtube]: https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w
 [instagram]: https://https://www.instagram.com/iam_arihant/
 [webdevplaylist]: https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w
+[jsplaylist]: https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w
+[cssplaylist]: https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w
+[reactplaylist]: https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w
 <!---
 darkonfire/darkonfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
