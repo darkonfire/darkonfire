@@ -1,3 +1,7 @@
+![](standard.gif)
+
+
+
 - 👋 Hi, Arihant this side
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning python
