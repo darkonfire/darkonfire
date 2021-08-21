@@ -18,6 +18,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -46,6 +47,7 @@
 </details>
 
 [website]: https://darkonfire.github.io/portfolio/
+[discord]: https://discord.gg/cPUaVBuGxX
 [youtube]: https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w
 [instagram]: https://https://www.instagram.com/iam_arihant/
 [webdevplaylist]: https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w
